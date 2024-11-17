@@ -1,8 +1,17 @@
-# React + Vite
+## r3f noise gradient
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+My personal page - r3f noise gradient
 
-Currently, two official plugins are available:
+## Technologies
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+* React + Vite
+* R3F
+* GSAP
+* SCSS Modules
+* GLSL
+
+## Demo
+
+Project Link: [https://krzysztof-polec-r3f-noise-gradient.netlify.app](https://krzysztof-polec-r3f-noise-gradient.netlify.app)
+
+### TO START: `yarn dev`
